@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/jcox/Dev'
+let g:netrw_dirhist_2='/Users/jcox/Dev/schools/src/app'
+let g:netrw_dirhist_3='/Users/jcox/Practice/angular/manuscript/code/first_app/angular2-reddit-base'
